@@ -1,3 +1,3 @@
 License
-This is a simple text
-This is another simple text
+This is a simple text.
+This is another simple text.
