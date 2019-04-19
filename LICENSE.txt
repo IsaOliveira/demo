@@ -1,4 +1,4 @@
-License 1.1
+License 1.1.
 This is a simple text.
 This is another simple text.
 
